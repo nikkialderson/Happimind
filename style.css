@@ -238,6 +238,18 @@ header .heading {
   padding: 20px;
 }
 
+.products .card h2 {
+  margin-bottom: 10px;
+}
+
+.products .card p {
+  margin-bottom: 12px;
+}
+
+.products .card ul li {
+  margin-bottom: 8px;
+}
+
 /* Product Card */
 .products .card {
   background: white;

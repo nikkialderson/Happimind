@@ -11,12 +11,12 @@ const heroImages = [
   { 
     src: "images/hero7.png", 
     btnText: "Take a Look", 
-    btnLink: "Products.html#deck"
+    btnLink: "products.html#deck"
   },
   { 
     src: "images/hero8.png", 
     btnText: "Listen Now", 
-    btnLink: "Products.html#podcast"
+    btnLink: "products.html#podcast"
   }
 ];
 

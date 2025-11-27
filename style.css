@@ -238,19 +238,6 @@ header .heading {
   padding: 20px;
 }
 
-.products .card h2 {
-  margin-bottom: 3px;
-  text-align: left;
-}
-
-.products .card p {
-  margin-bottom: 12px;
-}
-
-.products .card ul li {
-  margin-bottom: 8px;
-}
-
 /* Product Card */
 .products .card {
   background: white;
@@ -263,7 +250,6 @@ header .heading {
   align-items: flex-start;
   font-size: 16px; 
   text-align: left;     
-  line-height: 1.6;
 }
 
 .products .card:hover {
@@ -286,6 +272,8 @@ header .heading {
   outline: none;
   text-decoration: none;
   display: inline-block;
+  margin-top: 10px;
+  text-align: center;
 }
 
 .listen-btn:hover {
